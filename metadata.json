@@ -1,0 +1,7 @@
+{
+  "name": "AI Image Generator",
+  "description": "Fast, modern AI image generator with style presets (Realistic, Anime, 3D, Dreamcore), instant preview, and high-res downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
